@@ -2,12 +2,12 @@
 
 This is a simple wrapper of CrackWatch, maybe.
 
-###Installation:</br>
+### Installation:</br>
 ```
 pip install crackwatchers
 ```
 
-###Usage:
+### Usage:
 So, you can get imformation about Cracked/Uncracked/Unreleased games. For each type of status game you can make an import.
 
 **Cracked Games**
