@@ -10,4 +10,9 @@ setup(name='CrackWatchers',
       author='K1ndWha1e',
       author_email='nikita356@gmail.com',
       license='Apache-2.0',
-      packages=['CrackWatchers'])
+      download_url='https://github.com/K1ndWha1e/CrackWatchers/blob/master/archive/CrackWatchers.tar.gz',
+      keywords=['PyCrackWatch', 'Crack', 'Watch', 'CrackWatch API', 'CrackWatch Python Api'],
+      packages=[
+                  'CrackWatchers',
+                  'requests',
+      ])
